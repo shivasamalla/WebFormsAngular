@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false
+  },
+  "compileOnSave": true,
+  "files": [
+    "main.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

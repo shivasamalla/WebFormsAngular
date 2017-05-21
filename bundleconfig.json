@@ -1,0 +1,18 @@
+[
+  {
+    "outputFileName": "output/bundle.css",
+    "inputFiles": [
+      "Content/*.css"
+    ],
+    "minify": {
+      "enabled": true,
+      "commentMode": "all"
+    }
+  },
+  {
+    "outputFileName": "output/all.js",
+    "inputFiles": [
+      "js/.js"
+    ]
+  }
+]
